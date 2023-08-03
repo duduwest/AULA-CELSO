@@ -59,4 +59,9 @@ iframe {
 
 .card {     
     margin: 20 px ;  
+} 
+
+.card-img-top { 
+    height: 110;  width: 35;
+   
 }
