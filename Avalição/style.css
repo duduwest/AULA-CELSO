@@ -58,10 +58,11 @@ iframe {
 }
 
 .card {     
-    margin: 20 px ;  
+    margin: 30 px ;  
 } 
 
 .card-img-top { 
-    height: 110;  width: 35;
+    height: 500px;  width: 330px; 
+
    
 }
